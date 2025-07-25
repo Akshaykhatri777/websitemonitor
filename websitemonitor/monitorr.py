@@ -5,7 +5,7 @@ from email.mime.text import MIMEText
 # Website and email settings
 url = "https://www.examplenotworkingwebzozo.com"  # Replace with the URL you want to monitor
 sender_email = "sender@gmail.com"  # Replace with your email
-receiver_email = "receiver@gmail.com"  # Replace with recipient's email
+receiver_email = "receiver@gmail.com"  # Replace with recipient's email okkk
 password = "xxxxxxxxxxx"  # Replace with your email password
 
 def send_email_alert():
